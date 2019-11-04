@@ -6,8 +6,6 @@ The Rotate app connects multiple mobile devices to capture pictures of an object
 
 This app is currently available on the iOS App Store [here](https://apps.apple.com/us/app/rotate-3d-freeze-frame-pics/id1253508296)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Contact
 
 Email me at domcaporuscio@gmail.com with any questions or concerns.
