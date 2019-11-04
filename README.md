@@ -8,8 +8,8 @@ This app is currently available on the iOS App Store [here](https://apps.apple.c
 
 ### Contact
 
-Email me at domcaporuscio@gmail.com with any questions or concerns.
+Email me at ```domcaporuscio@gmail.com``` with any questions or concerns.
 
 ### Social Media
 
-Need Rotate inspiration? Follow @therotateapp on Instagram ;)
+Need Rotate inspiration? Follow ```@therotateapp``` on Instagram ;)
