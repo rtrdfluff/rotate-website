@@ -1,3 +1,6 @@
+# Help found here:
+# https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+
 # Set the theme for the website
 theme: jekyll-theme-cayman
 
@@ -7,7 +10,10 @@ title: Rotate
 # Subtitle
 description: Rotate around the world
 
-# --- Navigation bar options --- #
+# Gets rid of "View on GitHub" button
+is_project_page: false
+
+# --- Navigation Bar --- #
 # List of links in the navigation bar
 navbar-links:
   Home: "README.md"
